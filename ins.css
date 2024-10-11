@@ -1,0 +1,156 @@
+@charset "utf-8";
+#marco {
+    margin-left: 6px;
+    margin-right: 6px;
+    -webkit-box-shadow: 10px 10px 7px #000000;
+    box-shadow: 10px 10px 7px #000000;
+}
+.encabezado {
+    height: 195px;
+    background-size: cover;
+    background-position: 0% -158%;
+    background-color: #559AD3;
+    background-image: url(../../Downloads/c01f243f5dac4dbb048e5a87ea3742d1.jpg);
+}
+.parrafo1 {
+    font-size: 18px;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    padding: 30px;
+    margin-left: 25px;
+    margin-right: 25px;
+    text-align: justify;
+    background-color: #8DB6F4;
+    margin-top: -4px;
+    border-radius: 30px;
+    height: 1723px;
+}
+.titulo5 {
+    margin-top: 126px;
+    margin-right: 29px;
+    padding-left: 3px;
+    padding-right: 0px;
+    margin-left: -475px;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-size: 25px;
+}
+.titulo6 {
+    margin-top: -366px;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-size: 25px;
+    margin-left: 75px;
+}
+.titulo7 {
+    margin-left: -516px;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-size: 25px;
+    margin-top: 25px;
+}
+.imagen7 {
+    margin-left: -575px;
+    margin-top: 20px;
+}
+.titulo8 {
+    margin-top: -287px;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-size: 25px;
+    margin-left: 130px;
+}
+.imagen8 {
+    margin-top: 20px;
+}
+
+
+
+
+.imagen6 {
+    margin-top: 20px;
+}
+
+
+.imagen5 {
+    margin-top: 23px;
+    margin-left: -575px;
+}
+
+
+.titulo1 {
+    margin-left: 235px;
+    padding-top: 30px;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-size: 25px;
+}
+.titulo2 {
+    margin-left: 810px;
+    padding-top: 0px;
+    margin-top: -335px;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-size: 25px;
+}
+.titulo3 {
+    padding-top: 60px;
+    margin-left: -575px;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+.titulo4 {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    margin-left: 571px;
+    padding-top: 0px;
+    margin-top: -412px;
+}
+.imagen4 {
+    margin-left: 672px;
+    padding-top: 23px;
+}
+
+
+.imagen3 {
+    margin-left: 100px;
+    padding-top: 20px;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-size: 25px;
+}
+
+
+.imagen2 {
+    margin-left: 677px;
+}
+
+
+.ima {
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 58px;
+    margin-right: -75px;
+}
+.imagen1 {
+    margin-left: 100px;
+    padding-top: 16px;
+}
+
+
+
+
+.titulo {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 40px;
+    text-align: center;
+    color: #000000;
+    text-shadow: 0px 0px 0px #000000;
+    margin-top: 0px;
+    padding-top: 76px;
+}
+.contenido {
+    height: 1790px;
+    background-color: #A6DFED;
+    margin-top: 0px;
+    padding-top: 40px;
+    border-top-left-radius: 0px;
+}
+.ima {
+    margin-left: 258px;
+    padding-top: 20px;
+}
